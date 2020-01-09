@@ -2,7 +2,7 @@ LINUX COMMANDS
 --------------
 1. BASIC COMMANDS
 
-	1. cal- shows Calednder
+	1. cal- shows Calendar
 	2. date- print and set the system date and time.
 	3. tty(teletype or terminal)- Displays information related to terminal.
 		- --s,--silent,--quiet - Prints nothing ,returns only an exit status.
@@ -400,7 +400,7 @@ LINUX COMMANDS
 		-vi -R simplefile - opens only in read only mode
 		-dd - delete line.
 		-u - undo last change
-		-dw - delte word
+		-dw - delete word
 		-cw - change word
 		-cw - Change word
 		-x - Delete character at the cursor
