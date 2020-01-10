@@ -65,7 +65,16 @@ Branching
  	$ git push origin master
 
 ---------------------------------------- 	 	                   
+Install Git
+ 	
+ 	$ sudo apt-get install git
 
-	
+ 	$ git --version => 2.17.1
+
+ 	$ git config --global user.name "Gunjan-Gaur"
+
+ 	$ git config --global user.email "gunjangaur04@gmail.com"
+-------------------------------------------
+ * git log - Shows all history of commits and q to return.	
 
 	                      
