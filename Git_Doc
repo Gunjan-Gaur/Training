@@ -64,6 +64,10 @@ Branching
 
  	$ git push origin master
 
+ 	Important-Note:- If we want to merge 2 branches and we have modified same file of both the branches the merge conflict occurs. Then we have to resolve this conflict by selecting one file text 
+
+ 	git commit -i main.txt
+
 ---------------------------------------- 	 	                   
 Install Git
  	
